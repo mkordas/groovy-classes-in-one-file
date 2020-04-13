@@ -5,5 +5,5 @@ repositories {
 }
 
 dependencies {
-    compile 'org.codehaus.groovy:groovy:2.4.3'
+    compile 'org.codehaus.groovy:groovy:3.0.3'
 }
